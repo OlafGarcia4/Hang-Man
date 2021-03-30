@@ -6,7 +6,9 @@ Each class does a different thing.
 
 HngManPannel
 -crates the graphics and keyboard from where the user chooses the letters
+
 -creates a mouseListener to get information on what letter is being clicked
+
 - send the value for evalution and updates the wins or losses
 
 HngManStrings 
